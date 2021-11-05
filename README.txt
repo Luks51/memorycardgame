@@ -1,6 +1,7 @@
 ===> Memory Card Game Instructions <===
 
 > Aplikacija pisana i testirana u Python 3.9.7 verziji
+> Preporučeno koristit full HD zaslon jer na manjim zaslonima postoji mogućnost da se dio aplikacije ne prikaže (rađeno FHD zaslonom)
 > Potrebni library:
 	> tkinter (najčešće po defaultu dolazi s Pythonom)
 	> pillow / PIL (potrebna instalacija > cmd(admin) > pip install pillow)
